@@ -9,4 +9,6 @@ Caracteristicas del proyecto
 - BEM
 - Diseño web adaptativo (pantallas 320, 768 y 1280)
 
+Ana Cristina Mejia L
+
 # Tripleten web_project_homeland
