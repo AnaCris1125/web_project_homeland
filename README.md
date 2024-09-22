@@ -11,6 +11,6 @@ Caracteristicas del proyecto
 
 URL github pages: https://github.com/AnaCris1125/web_project_homeland
 
-Ana Cristina Mejia L
+Ana Cristina Mejia Lalinde
 
 # Tripleten web_project_homeland
