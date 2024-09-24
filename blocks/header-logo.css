@@ -81,7 +81,7 @@
     line-height: 1.6;
     text-align: left;
   }
-  .footer__copyright {
+  .header-footer {
     text-align: center;
     margin-left: 287px;
     width: 194px;
@@ -172,7 +172,7 @@
     line-height: 1.6;
     text-align: left;
   }
-  .footer__copyright {
+  .header-footer {
     width: 194px;
     height: 16px;
     margin-left: 543px;
