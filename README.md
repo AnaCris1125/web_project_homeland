@@ -9,7 +9,7 @@ Caracteristicas del proyecto
 - BEM
 - Diseño web adaptativo (pantallas 320, 768 y 1280)
 
-URL github pages: https://github.com/AnaCris1125/web_project_homeland
+URL github pages: https://anacris1125.github.io/web_project_homeland/
 
 Ana Cristina Mejia Lalinde
 

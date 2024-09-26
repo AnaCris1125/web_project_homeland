@@ -42,7 +42,7 @@
     height: 480px;
     margin-bottom: 30px;
   }
-  .header-intro__title {
+  .content-intro__title {
     width: 707px;
     height: 147px;
     font-family: Inter;
@@ -52,7 +52,7 @@
     text-align: left;
     margin-bottom: 0;
   }
-  .header-intro__paragraph1 {
+  .content-intro__paragraph1 {
     margin-top: 0;
     width: 720px;
     height: 136px;
@@ -62,7 +62,7 @@
     line-height: 1.4;
     text-align: left;
   }
-  .header-intro__paragraph2 {
+  .content-intro__paragraph2 {
     margin-top: 0;
     width: 720px;
     height: 34px;
@@ -72,7 +72,7 @@
     line-height: 1.4;
     text-align: right;
   }
-  .header-intro__paragraph3 {
+  .content-intro__paragraph3 {
     width: 720px;
     height: 182px;
     font-family: Inter;
@@ -81,7 +81,7 @@
     line-height: 1.6;
     text-align: left;
   }
-  .header-footer {
+  .footer-copyright {
     text-align: center;
     margin-left: 287px;
     width: 194px;
@@ -131,7 +131,7 @@
     height: 615px;
     margin-left: 148px;
   }
-  .header-intro__title {
+  .content-intro__title {
     width: 830px;
     height: 173.92px;
     margin-left: 148px;
@@ -141,7 +141,7 @@
     line-height: 1.07;
     text-align: left;
   }
-  .header-intro__paragraph1 {
+  .content-intro__paragraph1 {
     width: 738px;
     height: 135.66px;
     margin-left: 148px;
@@ -151,7 +151,7 @@
     line-height: 1.4;
     text-align: left;
   }
-  .header-intro__paragraph2 {
+  .content-intro__paragraph2 {
     width: 732px;
     height: 33.91px;
     margin-left: 148px;
@@ -161,7 +161,7 @@
     line-height: 1.4;
     text-align: right;
   }
-  .header-intro__paragraph3 {
+  .content-intro__paragraph3 {
     width: 722px;
     height: 181.54px;
     margin-left: 148px;
@@ -171,7 +171,7 @@
     line-height: 1.6;
     text-align: left;
   }
-  .header-footer {
+  .footer-copyright {
     width: 194px;
     height: 16px;
     margin-left: 543px;
