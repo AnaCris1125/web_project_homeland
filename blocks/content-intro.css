@@ -41,6 +41,7 @@
 
 @media screen and (min-width: 768px) {
   .header-logo__image {
+    align-items: center;
     width: 254px;
     height: 66px;
     margin-left: 257px;
@@ -126,41 +127,43 @@
 
 @media screen and (min-width: 1280px) {
   .header-logo__image {
+    align-items: center;
     width: 254.84px;
     height: 68.94px;
-    margin-top: 34px;
-    margin-left: 513px;
-    padding: 0px;
-    gap: 22px;
+    margin: auto;
+    /*  margin-top: 34px;
+    margin-left: 513px; */
   }
-  .header-lead {
-    width: 984px;
-    height: 983px;
-  }
+
   .header-lead__title {
+    text-align: center;
+    margin: auto;
     width: 720px;
     height: 200px;
-    margin-left: 280px;
     font-family: Inter;
     font-size: 96px;
     font-weight: 900;
     line-height: 1.06;
-    text-align: center;
+    padding-bottom: 20px;
   }
   .header-lead__subtitle {
+    text-align: center;
+    margin: auto;
     width: 720px;
     height: 72px;
-    margin-left: 280px;
     font-family: Inter;
     font-size: 30px;
     font-weight: 400;
     line-height: 1.2;
-    text-align: center;
+    padding-bottom: 30px;
   }
   .header-lead__image {
+    display: flex;
+    text-align: center;
+    margin: auto;
+    max-width: 984px;
     width: 100%;
     height: 615px;
-    margin-left: 148px;
   }
   .content-intro {
     margin-left: 0;

@@ -1,8 +1,4 @@
 .header-lead {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  text-align: center;
   color: #ffffff;
 }
 
@@ -35,6 +31,7 @@
 
 @media screen and (min-width: 768px) {
   .header-logo__image {
+    align-items: center;
     width: 254px;
     height: 66px;
     margin-left: 257px;
@@ -117,42 +114,40 @@
 
 @media screen and (min-width: 1280px) {
   .header-logo__image {
+    align-items: center;
     width: 254.84px;
     height: 68.94px;
-    margin-top: 34px;
-    margin-left: 513px;
-    padding: 0px;
-    gap: 22px;
+    margin: auto;
   }
-  .header-lead {
-    width: 984px;
-    height: 983px;
-  }
+
   .header-lead__title {
+    text-align: center;
+    margin: auto;
     width: 720px;
     height: 200px;
-    margin-left: 280px;
     font-family: Inter;
     font-size: 96px;
     font-weight: 900;
     line-height: 1.06;
-    text-align: center;
   }
   .header-lead__subtitle {
+    text-align: center;
+    margin: auto;
     width: 720px;
     height: 72px;
-    margin-left: 280px;
     font-family: Inter;
     font-size: 30px;
     font-weight: 400;
     line-height: 1.2;
-    text-align: center;
   }
   .header-lead__image {
+    text-align: center;
+    margin: auto;
     width: 100%;
+    max-width: 984px;
     height: 615px;
-    margin-left: 148px;
   }
+
   .content-intro__title {
     width: 830px;
     height: 173.92px;
