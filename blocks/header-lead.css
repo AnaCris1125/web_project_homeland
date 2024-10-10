@@ -29,6 +29,10 @@
   margin-bottom: 30px;
 }
 
+.header-lead__image:hover {
+  opacity: 30%;
+}
+
 @media screen and (min-width: 768px) {
   .header-logo__image {
     align-items: center;

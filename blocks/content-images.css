@@ -1,0 +1,26 @@
+.content-images {
+  display: grid;
+  flex-direction: column;
+  margin: 0 16px 50px;
+  gap: 10px;
+}
+
+.content-images__photo {
+  width: 100%;
+}
+
+@media screen and (min-width: 768px) {
+  .content-images {
+    gap: 15px;
+    grid-template-columns: repeat(2, 1fr);
+    margin-bottom: 50px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .content-images {
+    max-width: 1000%;
+    margin: 0 43px 50px;
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
