@@ -15,9 +15,9 @@
   align-items: flex-end;
   max-width: 460px;
   font-family: "Inter";
-  font-size: 4.5;
+  font-size: 32px;
   font-weight: 900;
-  line-height: 4.7;
+  line-height: 35px;
 }
 .content-place__image {
   margin-top: 20px;
@@ -36,7 +36,7 @@
 }
 .content-place__artist {
   font-family: Inter;
-  font-size: 0.75;
+  font-size: 12px;
   font-weight: 400;
   line-height: 0.9;
   letter-spacing: 0.12em;
@@ -46,7 +46,7 @@
 }
 .content-place__name {
   font-family: Inter;
-  font-size: 1.12;
+  font-size: 18px;
   font-weight: 400;
   line-height: 1.37;
   text-align: left;
@@ -55,7 +55,7 @@
   margin-top: 20px;
   width: 100%;
   font-family: "Inter";
-  font-size: 1.12;
+  font-size: 16px;
   font-weight: 400;
   line-height: 1.83;
   text-align: left;
@@ -94,8 +94,8 @@
     display: flex;
     align-items: flex-end;
     font-family: "Inter";
-    font-size: 2.62;
-    line-height: 2.87;
+    font-size: 42px;
+    line-height: 46px;
   }
   .content-place__image {
     max-width: 100%;
@@ -105,7 +105,7 @@
   .content-place__subtitle {
     margin-top: 30px;
     max-width: 352px;
-    font-size: 1.12;
+    font-size: 12px;
     line-height: 0.9;
   }
 
@@ -127,7 +127,7 @@
 
   .content-place__paragraphs {
     font-family: "Inter";
-    font-size: 1;
+    font-size: 16px;
     font-weight: 400;
     line-height: 1.63;
     max-width: 352px;
@@ -156,15 +156,15 @@
   }
   .content-place__title {
     font-family: Inter;
-    font-size: 2;
+    font-size: 32px;
     font-weight: 900;
-    line-height: 2.18;
+    line-height: 35px;
     margin-left: 16px;
   }
 
   .content-place__artist {
     font-family: Inter;
-    font-size: 0.75;
+    font-size: 12px;
     font-weight: 400;
     line-height: 0.9;
     letter-spacing: 0.12em;
@@ -176,7 +176,7 @@
 
   .content-place__name {
     font-family: Inter;
-    font-size: 1.12;
+    font-size: 18px;
     font-weight: 400;
     line-height: 1.37;
     text-align: left;
@@ -187,7 +187,7 @@
 
   .content-place__paragraph {
     font-family: Inter;
-    font-size: 1;
+    font-size: 16px;
     font-weight: 400;
     line-height: 1.63;
     text-align: left;
